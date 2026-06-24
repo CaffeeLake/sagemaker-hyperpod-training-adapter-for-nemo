@@ -1,2 +1,2 @@
-nemo_toolkit[all]==2.0.0rc1
+nemo_toolkit[all]==2.6.2
 huggingface_hub==0.24.0
